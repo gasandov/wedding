@@ -10139,7 +10139,7 @@ a.text-dark:focus {
 
 .bg-gallery {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(https://lh3.googleusercontent.com/drive-viewer/AFGJ81oN3xCZz6rZyR9M-TfkFsoVPvh22-EelQlUgMfC2hX5-41Ex2M3kCjGNybUfpbhyZnsSTigF09ORxcsnxaV5BNEL19B=s1600),
+    url("/assets/img/DR-50.jpg"),
     no-repeat center center;
   background-size: cover;
 }
